@@ -3,7 +3,7 @@
 
 ## I. Project Overview
 
-This ATM system is designed to simulate the behavior of an Automated Teller Machine (ATM). The system allows users to perform basic banking operations, such as checking account balance, depositing funds, withdrawing funds, changing PIN, and viewing account types. It also includes user authentication, where accounts can be locked after multiple failed login attempts. The system is built using Object-Oriented Programming (OOP) principles to ensure clear, maintainable, and scalable code.
+This Virtual ATM system is designed to simulate the behavior of an Automated Teller Machine (ATM). The system allows users to perform basic banking operations, such as checking account balance, depositing funds, withdrawing funds, changing PIN, and viewing account types. It also includes user authentication, where accounts can be locked after multiple failed login attempts. The system is built using Object-Oriented Programming (OOP) principles to ensure clear, maintainable, and scalable code.
 
 The system's core functionality is supported by the following features:
 - **Login Authentication**: Secure login process with account number and PIN.
